@@ -1,0 +1,5 @@
+name=str(input(" name:"))
+rollno=int(input(" rollno:"))
+course=str(input(" course:"))
+place=str(input(" place:"))
+print("name=",name,"rollno=",rollno,"course=",course,"place=",place)
